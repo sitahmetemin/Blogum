@@ -5,10 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Concrete\EntityFramework\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\Blogum.Core\Blogum.Core.csproj" />
     <ProjectReference Include="..\Blogum.Domain\Blogum.Domain.csproj" />
   </ItemGroup>
